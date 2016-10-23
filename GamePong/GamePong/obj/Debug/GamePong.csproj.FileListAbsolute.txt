@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\GamePong\bin\Debug\GamePong.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\GamePong\bin\Debug\GamePong.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\GamePong\bin\Debug\GamePong.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\GamePong\obj\Debug\GamePong.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\GamePong\obj\Debug\GamePong.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\GamePong\obj\Debug\GamePong.pdb

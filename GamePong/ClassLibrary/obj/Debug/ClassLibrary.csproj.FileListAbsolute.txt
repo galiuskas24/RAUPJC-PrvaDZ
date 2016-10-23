@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\ClassLibrary\bin\Debug\ClassLibrary.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\ClassLibrary\bin\Debug\ClassLibrary.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\ClassLibrary\obj\Debug\ClassLibrary.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\GamePong\ClassLibrary\obj\Debug\ClassLibrary.pdb
