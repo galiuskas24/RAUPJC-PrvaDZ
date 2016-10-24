@@ -1,0 +1,6 @@
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\NewIntgerList\NewIntgerList\bin\Debug\NewIntgerList.exe.config
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\NewIntgerList\NewIntgerList\bin\Debug\NewIntgerList.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\NewIntgerList\NewIntgerList\bin\Debug\NewIntgerList.pdb
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\NewIntgerList\NewIntgerList\obj\Debug\NewIntgerList.csprojResolveAssemblyReference.cache
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\NewIntgerList\NewIntgerList\obj\Debug\NewIntgerList.exe
+C:\Users\Vlado\Documents\Visual Studio 2015\Projects\NewIntgerList\NewIntgerList\obj\Debug\NewIntgerList.pdb
